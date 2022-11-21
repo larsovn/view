@@ -1,0 +1,19 @@
+{
+	"name": "larso/view",
+	"description": "View class from Laravel Blade",
+	"autoload": {
+		"psr-4": {
+			"Larso\\View\\": ""
+		}
+	},
+	"require": {
+		"php": ">=7.3 <8.1",
+		"illuminate/config": "*",
+		"illuminate/support": "*",
+		"illuminate/view": "8.35.1",
+		"symfony/var-dumper": "*"
+	},
+	"license": "MIT",
+	"prefer-stable": true,
+	"minimum-stability": "dev"
+}
