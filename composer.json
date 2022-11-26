@@ -7,10 +7,10 @@
 		}
 	},
 	"require": {
-		"php": ">=7.3 <8.1",
+		"php": "^7.3",
 		"illuminate/config": "*",
 		"illuminate/support": "*",
-		"illuminate/view": "8.35.1",
+		"illuminate/view": "*",
 		"symfony/var-dumper": "*"
 	},
 	"license": "MIT",
